@@ -16,7 +16,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
   Showcase your DevOps + AI projects prominently.
 
 - [✅] **Enhance existing projects with AI features** 📈  
-  Add AI components to your e-commerce or automation projects
+  Add AI components to your e-commerce or automation projects.
 
 ---
 
