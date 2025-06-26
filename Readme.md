@@ -13,7 +13,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
   Add 'Prompt Engineering', 'LLM Integration', 'AI-Driven Development' to your skills
 
 - [✅] **Create a standout GitHub README** 💼  
-  Showcase your DevOps + AI projects prominently
+  Showcase your DevOps + AI projects prominently.
 
 - [✅] **Enhance existing projects with AI features** 📈  
   Add AI components to your e-commerce or automation projects
