@@ -6,7 +6,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
 ---
 
 ## 🔴 Phase 1: Immediate Actions (Next 2 weeks)
-**Priority: HIGH** - Quick wins to strengthen your job applications
+**Priority: HIGH** - Quick wins to strengthen your job applications.
 
 ### 📋 Tasks:
 - [✅] **Update LinkedIn with AI/ML keywords** 🌟  
