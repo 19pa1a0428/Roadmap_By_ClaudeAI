@@ -98,7 +98,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
 
 ### Current Focus Areas:
 1. **AI Integration** - Highest market demand
-2. **Cloud Architecture** - Builds on your strengths
+2. **Cloud Architecture** - Builds on your strengths.
 3. **Full-Stack + DevOps** - Rare combination that employers love.
 
 ---
