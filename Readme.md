@@ -10,7 +10,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
 
 ### 📋 Tasks:
 - [✅] **Update LinkedIn with AI/ML keywords** 🌟  
-  Add 'Prompt Engineering', 'LLM Integration', 'AI-Driven Development' to your skills
+  Add 'Prompt Engineering', 'LLM Integration', 'AI-Driven Development' to your skills.
 
 - [✅] **Create a standout GitHub README** 💼  
   Showcase your DevOps + AI projects prominently.
