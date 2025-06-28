@@ -67,7 +67,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
   Computer Vision, NLP, or specialized AI domains
 
 - [ ] **Leadership & Soft Skills** 🔄  
-  Technical mentoring, team leadership experience
+  Technical mentoring, team leadership experience.
 
 ---
 
