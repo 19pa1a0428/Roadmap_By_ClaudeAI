@@ -28,7 +28,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
   Since you have React basics, add TypeScript and advanced patterns.
 
 - [ ] **Prompt Engineering & LLM Integration** 🤖  
-  Learn OpenAI API, LangChain, vector databases - huge market demand
+  Learn OpenAI API, LangChain, vector databases - huge market demand.
 
 - [ ] **Kubernetes Deep Dive** ⚙️  
   Build on your Docker/AWS knowledge - K8s is essential for cloud roles
