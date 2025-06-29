@@ -64,7 +64,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
   AWS Solutions Architect or DevOps Professional
 
 - [ ] **Advanced AI/ML** 🤖  
-  Computer Vision, NLP, or specialized AI domains
+  Computer Vision, NLP, or specialized AI domains.
 
 - [ ] **Leadership & Soft Skills** 🔄  
   Technical mentoring, team leadership experience.
