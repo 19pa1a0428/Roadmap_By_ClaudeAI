@@ -21,7 +21,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
 ---
 
 ## 🟡 Phase 2: Core Skill Building (Month 1-2)
-**Priority: HIGH** - Build on your strengths with market-demanded skills
+**Priority: HIGH** - Build on your strengths with market-demanded skills.
 
 ### 📋 Tasks:
 - [ ] **Advanced React + TypeScript** 🔧  
