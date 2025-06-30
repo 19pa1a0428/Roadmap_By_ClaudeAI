@@ -34,7 +34,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
   Build on your Docker/AWS knowledge - K8s is essential for cloud roles.
 
 - [ ] **Build an AI-powered full-stack project** 📈  
-  Combine your skills: React frontend, Python backend, AI features, deployed on AWS
+  Combine your skills: React frontend, Python backend, AI features, deployed on AWS.
 
 ---
 
