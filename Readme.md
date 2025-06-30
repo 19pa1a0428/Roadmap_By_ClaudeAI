@@ -77,7 +77,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
 
 **AI is the multiplier:** Add AI features to showcase you understand the future of development
 
-**Show, don't tell:** Deploy projects publicly, document your process
+**Show, don't tell:** Deploy projects publicly, document your process.
 
 **Network actively:** Attend AI/DevOps meetups in St. Louis, engage on LinkedIn
 
