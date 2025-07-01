@@ -73,7 +73,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
 
 ## 💡 Key Strategy Notes
 
-**Leverage your DevOps background:** Most developers lack this - it's your competitive advantage
+**Leverage your DevOps background:** Most developers lack this - it's your competitive advantage.
 
 **AI is the multiplier:** Add AI features to showcase you understand the future of development
 
