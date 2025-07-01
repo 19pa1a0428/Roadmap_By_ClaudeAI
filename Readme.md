@@ -105,7 +105,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
 
 ## 🚀 Quick Start Guide
 
-1. **Week 1:** Update LinkedIn, enhance GitHub profile
+1. **Week 1:** Update LinkedIn, enhance GitHub profile.
 2. **Week 2:** Start AI/LLM learning, pick a project to enhance
 3. **Month 1:** Deep dive into React+TypeScript, build AI project
 4. **Month 2:** Kubernetes certification, contribute to open source
