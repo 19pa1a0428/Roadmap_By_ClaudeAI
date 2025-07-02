@@ -49,7 +49,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
   Prepare for technical interviews - focus on cloud architecture.
 
 - [ ] **Open Source Contributions** 💼  
-  Contribute to AI/DevOps projects to build credibility
+  Contribute to AI/DevOps projects to build credibility.
 
 - [ ] **Technical Writing/Blogging** 🌟  
   Share your AI + DevOps insights - great for visibility
