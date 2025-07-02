@@ -43,7 +43,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
 
 ### 📋 Tasks:
 - [ ] **Terraform Advanced Patterns** ⚙️  
-  Multi-environment setups, modules, state management
+  Multi-environment setups, modules, state management.
 
 - [ ] **System Design Study** ⏰  
   Prepare for technical interviews - focus on cloud architecture
