@@ -46,7 +46,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
   Multi-environment setups, modules, state management.
 
 - [ ] **System Design Study** ⏰  
-  Prepare for technical interviews - focus on cloud architecture
+  Prepare for technical interviews - focus on cloud architecture.
 
 - [ ] **Open Source Contributions** 💼  
   Contribute to AI/DevOps projects to build credibility
