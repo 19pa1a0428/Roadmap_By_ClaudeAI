@@ -39,7 +39,7 @@ AI integration, cloud expertise, and DevOps skills are in highest demand. Your b
 ---
 
 ## 🟠 Phase 3: Market Positioning (Month 2-3)
-**Priority: MEDIUM** - Stand out in the competitive market
+**Priority: MEDIUM** - Stand out in the competitive market.
 
 ### 📋 Tasks:
 - [ ] **Terraform Advanced Patterns** ⚙️  
